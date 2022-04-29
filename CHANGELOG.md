@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/polarmutex/beancount-language-server/compare/v1.0.2...v1.1.0) (2022-04-29)
+
+
+### Features
+
+* switch to tower-lsp (lspower archived) ([ee426b6](https://github.com/polarmutex/beancount-language-server/commit/ee426b6c4f4dc448ad494f61949fb7dad4ba8eaf))
+
+
+### Bug Fixes
+
+* update nix flake to build lsp ([00e97af](https://github.com/polarmutex/beancount-language-server/commit/00e97af413103a240fe6bdcbdad52bd8a4db170a))
+
 ### [1.0.2](https://github.com/polarmutex/beancount-language-server/compare/v1.0.1...v1.0.2) (2022-04-28)
 
 
